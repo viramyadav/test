@@ -1,2 +1,4 @@
 hi everyone, this is my first file i ma creating to learn github.
 2nd line added
+
+when you send the changes to the the main branch then this is called push request. and when main branch accepts your branch then it is called as pull request.
