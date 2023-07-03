@@ -3,3 +3,5 @@ hi everyone, this is my first file i ma creating to learn github.
 
 Branch in github are like tests or we can say we take all the possible solutions into considerations, without changing the main branch(main centre code database)
 jo bhi try krna hai u can do it by creating branches 
+
+Fork means copy others github, evrything from a link and then you can use it and make changes.
